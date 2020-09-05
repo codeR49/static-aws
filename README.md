@@ -1,6 +1,6 @@
 # Jenkins Pipelines on AWS for Udacity Cloud Devops Engineer Nanodegree Program
 
-A simple Jenkins pipeline that lints and deploys a static website to an AWS S3 bucket as specified by [Udacity](https://www,udacity.com) for Cloud DevOps Engineer - project 4. 
+A simple Jenkins pipeline that lints and deploys a static website to an AWS S3 bucket as specified by [Udacity](https://www.udacity.com) for Cloud DevOps Engineer - project 4. 
 
 
 ## Pipeline
